@@ -165,7 +165,7 @@ class LL {
 /**
  * Main class to demonstrate the functionality of the linked list.
  */
-public class RevLinkedList {
+public class RevLinkedListIterate {
     public static void main(String[] args) {
         LL l = new LL();
 
